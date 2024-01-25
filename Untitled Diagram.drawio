@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T08:46:19.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="ANLDokujkSYdkPZ1GkAt" version="23.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T08:57:04.634Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="WV6bfQUJWmsV1cJTeNAO" version="23.0.1" type="github">
   <diagram name="Page-1" id="iasTf-FQ_z726pqucfxH">
     <mxGraphModel dx="1386" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="MhuSLPjLl23GTyByCLrE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MhuSLPjLl23GTyByCLrE-1" target="MhuSLPjLl23GTyByCLrE-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MhuSLPjLl23GTyByCLrE-30" value="Corect current versiont" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MhuSLPjLl23GTyByCLrE-14">
+        <mxCell id="MhuSLPjLl23GTyByCLrE-30" value="Correct current version" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MhuSLPjLl23GTyByCLrE-14">
           <mxGeometry x="-0.0423" y="3" relative="1" as="geometry">
             <mxPoint x="-4" as="offset" />
           </mxGeometry>
@@ -51,29 +51,49 @@
         <mxCell id="MhuSLPjLl23GTyByCLrE-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MhuSLPjLl23GTyByCLrE-17" target="MhuSLPjLl23GTyByCLrE-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MhuSLPjLl23GTyByCLrE-31" value="Not success" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MhuSLPjLl23GTyByCLrE-20">
+          <mxGeometry x="-0.1529" y="-1" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MhuSLPjLl23GTyByCLrE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MhuSLPjLl23GTyByCLrE-17" target="MhuSLPjLl23GTyByCLrE-22">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MhuSLPjLl23GTyByCLrE-32" value="Success" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MhuSLPjLl23GTyByCLrE-23">
+          <mxGeometry x="-0.12" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="MhuSLPjLl23GTyByCLrE-17" value="Send API get connection string&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="620" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MhuSLPjLl23GTyByCLrE-19" value="Message: Unable to connect to server" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="620" width="120" height="80" as="geometry" />
+          <mxGeometry x="649" y="620" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MhuSLPjLl23GTyByCLrE-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MhuSLPjLl23GTyByCLrE-22" target="MhuSLPjLl23GTyByCLrE-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MhuSLPjLl23GTyByCLrE-33" value="Incorrect user or password" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MhuSLPjLl23GTyByCLrE-25">
+          <mxGeometry x="-0.14" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MhuSLPjLl23GTyByCLrE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MhuSLPjLl23GTyByCLrE-22" target="MhuSLPjLl23GTyByCLrE-26">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MhuSLPjLl23GTyByCLrE-34" value="Correct user and password" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MhuSLPjLl23GTyByCLrE-27">
+          <mxGeometry x="-0.4" y="1" relative="1" as="geometry">
+            <mxPoint y="17" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="MhuSLPjLl23GTyByCLrE-22" value="Check username and password" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="750" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MhuSLPjLl23GTyByCLrE-24" value="Message:&amp;nbsp;Incorrect username or password" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="750" width="120" height="80" as="geometry" />
+          <mxGeometry x="693" y="750" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MhuSLPjLl23GTyByCLrE-26" value="Return connection string" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="870" width="120" height="80" as="geometry" />
+          <mxGeometry x="335" y="930" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MhuSLPjLl23GTyByCLrE-28" value="Not current version" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="509" y="248" width="120" height="30" as="geometry" />
